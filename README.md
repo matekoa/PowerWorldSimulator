@@ -1,7 +1,7 @@
 # PowerWorldSimulator
 
 To design a power system project by performing power system
-analysis. Power flow, balanced fault calculations and PowerWorld Simulations are performed to ensure that the power
+analysis. **Power flow, balanced fault calculations and PowerWorld Simulations** are performed to ensure that the power
 system, together with its component parts, is appropriately
 configured to function as expected.
 We were able to create various data tables by simulating the 7
